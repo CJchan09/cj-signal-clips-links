@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.openai/
+dist/
+QA/
+*.tar.gz
+.env
+.env.*
