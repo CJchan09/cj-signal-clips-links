@@ -21,4 +21,4 @@ Open `index.html`, or run `python -m http.server 8798 --bind 127.0.0.1` in this 
 
 ## Hosting
 
-GitHub Pages publishes the repository root on the `main` branch. Intended custom domain: `signal.cj-chan.work`. DNS and HTTPS must be active before treating the custom domain as live.
+GitHub Pages publishes the repository root on the `main` branch. Intended custom domain: `clips.cj-chan.work`. DNS and HTTPS must be active before treating the custom domain as live.
